@@ -7,9 +7,8 @@ Benchmark comparision between fastify and express(middleware/plugin)
 
 ```
 $ git clone 
-$ cd compress-benchmark
+$ cd fastify-express-compress-benchmark
 $ npm install
-$ npm start
 ```
 
 `fastify`/`express` server will start on [localhost:3000](http://localhost:3000)
